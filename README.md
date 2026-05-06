@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogos&layout=compact)](https://github.com/leogos)
